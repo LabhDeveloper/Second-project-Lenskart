@@ -1,0 +1,403 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-decoration: none;
+    
+}
+
+header {
+    position: fixed;
+    top: 0;
+    background-color: white;
+}
+
+main {
+    margin-top: 150px;
+
+}
+
+.topnavbar {
+    /* border: 1px solid; */
+    font-family: sans-serif;
+    font-size: 12px;
+    height: 20px;
+    padding: 9px 0px 9px 26px;
+}
+
+.topnavbar>ul>li>a {
+    color: rgb(126, 120, 120);
+}
+
+li {
+    padding: 0px 0px 0px 4px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.topnavbar ul li {
+    display: inline-block;
+}
+
+.topright {
+    float: right;
+}
+
+/* TOP NAV BAR END */
+
+/* MAIN HEADER BAR START */
+.mainheader {
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+}
+
+.lenskartlogo {
+    
+}
+.lenskartlogo img{
+    height:65px;
+    width:210px;
+}
+
+.phonenumber {
+    height:50px;
+    width:180px;
+}
+
+.searchbox {
+    height:50px;
+    width:350px;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-left: 50px;
+}
+
+
+
+.search {
+    
+    border: none;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.search:focus {
+    outline: none;
+}
+
+.menu-li {
+    padding-left: 30px;
+}
+
+.menu-li>a {
+    color: rgb(13, 13, 13);
+}
+
+.menu {
+    padding-left: 65px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgb(6, 6, 6);
+}
+
+/* MAIN HEADER BAR END */
+
+/* BOTTOM HEADER BAR START */
+.bottomheader {
+    /* border: 1px solid; */
+    display: flex;
+}
+
+.bottomheader1 {
+    /* border: 1px solid; */
+    border-radius: 5px;
+    background-color: #f5fefb;
+    /* padding: 14px; */
+    margin-left: 29px;
+    padding: 0px 20px;
+
+
+}
+
+.bottomheader1> span >a{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+
+.li-hover {
+    line-height: 39px;
+    color: black;
+}
+
+.li-hover:hover {
+    color: black;
+}
+
+.td {
+    margin-left: 20px;
+}
+
+.bottomheader2 {
+    margin-left: 20px;
+}
+
+.bottomheader2>a {
+    font-family: sans-serif;
+    background: #00B5A5;
+    border-radius: 5px;
+    padding: 11px 4px;
+    color: white;
+    line-height: 40px;
+}
+
+.bottomheader3 {
+    margin-left: 5px;
+}
+
+.bottomheader3>a {
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    color: #050646;
+    border-radius: 5px;
+    background: #DCF3F9;
+    padding: 0px 19px;
+    line-height: 40px;
+}
+
+.bottomheader4 {
+    margin-left: 5px;
+}
+
+.bottomheader4>a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: #DFC684;
+    border-radius: 5px;
+    background: #010042;
+    padding: 6px 16px;
+    line-height: 40px;
+}
+
+.logopart
+{
+    background-color: white;
+}
+
+#search1
+{
+    align-items: center;
+    padding-right: 20;
+}
+
+#searchbar
+{
+    font-family: 'Rajdhani', sans-serif;
+    border-radius: 0%;
+    width: 450px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+.navOptions
+{
+    font-family: 'Rajdhani', sans-serif;
+    margin-top: 5px;
+    font-weight: 600;
+    font-size: 17px;
+    margin-right: 90px;
+}
+.greypart
+{
+    font-family: 'Rajdhani', sans-serif;
+    background-color: #DCD9D9;
+    padding: 0px;
+}
+@font-face {
+    font-family: FuturaStdBook;
+    src: url(FuturaStdBook.otf);
+}
+.orangepart
+{
+    background-color: #FAE1BE;
+    font-family: FuturaStdBook;
+    text-align: center;
+    height: 50px;
+    padding : auto; 
+    margin-top : 150px;
+
+}
+
+.orangepart > p{
+    padding-top: 5px; margin-right: 300px; padding-bottom: 20px; letter-spacing: 1px;
+  }
+  .orangepart > p >strong{
+    font-size: 25px; margin-right: 50px;
+  }
+  .orangepart > p >button{
+    background-color: #43C2DA; color: white; border-width: 0px; border-radius: 5px; float: right; padding: 5px; margin-right: 25px; margin-left: 25px;
+  }
+.whitepart
+{
+    font-family: FuturaStdBook;
+    font-size: 12px;
+    padding : 3px;
+}
+
+#page {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+
+.c{
+    margin-left: 20px;
+    width : 50%;
+
+}
+.card > img{
+    heigth: 18%;
+    width: 100%;
+    margin-top : 10px;
+}
+#maincontent {
+    float: right;
+    width: 95.6%;
+    background-color: #F0F0F0;
+    font-family: FuturaStdBook;
+}
+#menuleftcontent {
+    float: left;
+    width: 250px;
+    margin-left: -200px;
+    background-color: white;
+    height: 100px;
+}
+
+#firstcontent
+{
+    height: 40px;
+    padding-top: 12px;
+    padding-left: 9px;
+    letter-spacing: 2px;
+    font-size: 12px ;
+    color: #767373 ;
+}
+#secondcontent
+{
+    background-color: white;   
+}
+#thirdcontent
+{
+    background-color: white;   
+}
+#clearingdiv {
+    clear: both;
+}
+/* #switch */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #5DA7A0;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 19px;
+    width: 19px;
+    left: 2px;
+    bottom: 1px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #5DA7A0;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #5DA7A0;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(39px);
+    -ms-transform: translateX(39px);
+    transform: translateX(39px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius:50%;
+  }
+
+  .left1 .centre1 .right1
+  {
+    float:left;
+    width:15%;
+  }
+ .rate
+ {
+    float:left;
+    margin-right:5px;
+ }
+ .price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+  }
+
+  footer{
+    height: 80px;
+    background-color: #faf1c4;
+}
+
+#footcopy{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.footcontact{
+    height: 70px;
+    width: 33%;
+    float: left;
+    border-left: 2px solid black;
+    text-align: center;
+    background-color: #faf1c4;
+}
+
+.noborder{
+    border: none;
+}
