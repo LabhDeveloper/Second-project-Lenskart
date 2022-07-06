@@ -1,0 +1,104 @@
+{
+    "Products":[
+        {
+            "id": 1,
+            "brand_name": "Vincent Chase Online",
+            "categories_id": 1,
+            "size_id": 4,
+            "gender": "Unisex",
+            "lens_image": "https://i.ibb.co/JyQ8kJ6/Lens1.jpg",
+            "rating": "4.1",
+            "price": "999"
+        },
+        {
+            "id": 2,
+            "brand_name": "John Jacobs",
+            "categories_id": 2,
+            "size_id": 3,
+            "gender": "Unisex",
+            "lens_image": "https://i.ibb.co/FX7ghVy/Lens2.jpg",
+            "rating": "4.6",
+            "price": "3000"
+        },
+        {
+            "id": 3,
+            "brand_name": "Air Classic",
+            "categories_id": 1,
+            "size_id": 2,
+            "gender": "Female",
+            "lens_image": "https://i.ibb.co/PQjWHK7/Lens3.jpg",
+            "rating": "4.0",
+            "price": "1100"
+        },
+        {
+            "id": 4,
+            "brand_name": "Hooper",
+            "categories_id": 4,
+            "size_id": 3,
+            "gender": "Unisex",
+            "lens_image": "https://i.ibb.co/4jvkzTY/Lens4.jpg",
+            "rating": "4.7",
+            "price": "799"
+        },
+        {
+            "id": 5,
+            "brand_name": "Vincent Chase Polarized",
+            "categories_id": 3,
+            "size_id": 5,
+            "gender": "Male",
+            "lens_image": "https://i.ibb.co/h7Wyc1X/Lens5.jpg",
+            "rating": "4.8",
+            "price": "1299"
+        },
+        {
+            "id": 6,
+            "brand_name": "Lenskart Air",
+            "categories_id": 2,
+            "size_id": 1,
+            "gender": "Unisex",
+            "lens_image": "https://i.ibb.co/xqdjq4W/Lens6.jpg",
+            "rating": "4.4",
+            "price": "1600"
+        },
+        {
+            "id": 7,
+            "brand_name": "Hopper Sunnies",
+            "categories_id": 4,
+            "size_id": 3,
+            "gender": "Unisex",
+            "lens_image": "https://i.ibb.co/mtrZgdJ/Lens7.jpg",
+            "rating": "4.5",
+            "price": "999"
+        },
+        {
+            "id": 8,
+            "brand_name": "Vincent Chase Polarized",
+            "categories_id": 3,
+            "size_id": 4,
+            "gender": "Female",
+            "lens_image": "https://i.ibb.co/ydY2pkR/Lens8.jpg",
+            "rating": "4.4",
+            "price": "1499"
+        },
+        {
+            "id": 9,
+            "brand_name": "Vincent Chase",
+            "categories_id": 2,
+            "size_id": 3,
+            "gender": "Male",
+            "lens_image": "https://i.ibb.co/rFJxmVk/Lens9.jpg",
+            "rating": "4.7",
+            "price": "699"
+        },
+        {
+            "id": 10,
+            "brand_name": "Vincent Chase Online",
+            "categories_id": 1,
+            "size_id": 2,
+            "gender": "Female",
+            "lens_image": "https://i.ibb.co/gyJwcfL/Lens10.jpg",
+            "rating": "4.2",
+            "price": "1500"
+        }
+    ]
+}

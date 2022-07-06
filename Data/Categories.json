@@ -1,0 +1,20 @@
+{
+    "category":[
+        {
+            "id": 1,
+            "name": "EyeGlasses"
+        },
+        {
+            "id": 2,
+            "name": "Computer Glasses"
+        },
+        {
+            "id": 3,
+            "name": "Sun Glasses"
+        },
+        {
+            "id": 4,
+            "name": "Kids Glasses"
+        }
+    ]
+}

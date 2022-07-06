@@ -1,0 +1,33 @@
+{
+    "Size" :[
+        {
+            "id":1,
+            "size": "Extra Narrow"
+        },
+        {
+            "id":2,
+            "size": "Narrow"
+        },
+        {
+            "id":3,
+            "size": "Medium"
+        },
+        {
+            "id":4,
+            "size": "Wide"
+        },
+        {
+            "id":5,
+            "size": "Extra Wide"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
